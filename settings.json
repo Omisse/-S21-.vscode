@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "chrono": "c",
+        "cmath": "c",
+        "complex": "c",
+        "cstdlib": "c",
+        "random": "c",
+        "*.tcc": "c",
+        "numeric": "c",
+        "ratio": "c",
+        "math.h": "c"
+    }
+}
